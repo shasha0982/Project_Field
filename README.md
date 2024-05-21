@@ -9,6 +9,8 @@ Data Cleaning - https://github.com/shasha0982/Data-Cleaning
 
 Data Analysis / Visualization - https://github.com/shasha0982/Data-Analysis-Project/blob/main/README.md
 
+SQL -
+
 Machine Learning / pyCaret - 
 
 Deployment -
@@ -20,6 +22,8 @@ Deployment -
 Data Cleaning - https://github.com/shasha0982/Data-Cleaning
 
 Data Analysis / Visualization - https://github.com/shasha0982/Data-Analysis-Project/blob/main/README.md
+
+SQL -
 
 Machine Learning / pyCaret - 
 
@@ -33,6 +37,8 @@ Data Cleaning - https://github.com/shasha0982/Data-Cleaning
 
 Data Analysis / Visualization - https://github.com/shasha0982/Data-Analysis-Project/blob/main/README.md
 
+SQL -
+
 Machine Learning / pyCaret - 
 
 Deployment -
@@ -44,6 +50,8 @@ Deployment -
 Data Cleaning - https://github.com/shasha0982/Data-Cleaning
 
 Data Analysis / Visualization - https://github.com/shasha0982/Data-Analysis-Project/blob/main/README.md
+
+SQL -
 
 Machine Learning / pyCaret - 
 
@@ -57,6 +65,8 @@ Data Cleaning - https://github.com/shasha0982/Data-Cleaning
 
 Data Analysis / Visualization - https://github.com/shasha0982/Data-Analysis-Project/blob/main/README.md
 
+SQL -
+
 Machine Learning / pyCaret - 
 
 Deployment -
@@ -68,6 +78,8 @@ Deployment -
 Data Cleaning - https://github.com/shasha0982/Data-Cleaning
 
 Data Analysis / Visualization - https://github.com/shasha0982/Data-Analysis-Project/blob/main/README.md
+
+SQL -
 
 Machine Learning / pyCaret - 
 
@@ -81,6 +93,8 @@ Data Cleaning - https://github.com/shasha0982/Data-Cleaning
 
 Data Analysis / Visualization - https://github.com/shasha0982/Data-Analysis-Project/blob/main/README.md
 
+SQL -
+
 Machine Learning / pyCaret - 
 
 Deployment -
@@ -93,6 +107,8 @@ Data Cleaning - https://github.com/shasha0982/Data-Cleaning
 
 Data Analysis / Visualization - https://github.com/shasha0982/Data-Analysis-Project/blob/main/README.md
 
+SQL -
+
 Machine Learning / pyCaret - 
 
 Deployment -
@@ -104,6 +120,8 @@ Deployment -
 Data Cleaning - https://github.com/shasha0982/Data-Cleaning
 
 Data Analysis / Visualization - https://github.com/shasha0982/Data-Analysis-Project/blob/main/README.md
+
+SQL -
 
 Machine Learning / pyCaret - 
 
@@ -118,6 +136,8 @@ Deployment -
 Data Cleaning - https://github.com/shasha0982/Data-Cleaning
 
 Data Analysis / Visualization - https://github.com/shasha0982/Data-Analysis-Project/blob/main/README.md
+
+SQL -
 
 Machine Learning / pyCaret - 
 
